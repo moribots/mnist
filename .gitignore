@@ -24,6 +24,7 @@ lib/
 lib64/
 parts/
 sdist/
+wandb/
 var/
 wheels/
 data/
